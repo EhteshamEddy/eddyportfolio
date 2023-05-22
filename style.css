@@ -1,0 +1,28 @@
+body{
+	margin:0;
+	padding:0;
+	background-color:#aa988a;
+}
+
+h1{
+	margin-left:10px;
+}
+
+.para{
+	width:85%;
+	margin:0;
+	padding:10px;
+	bix-sizing:border-box;
+	float:left;
+	text-align:justify;
+	font-size:20px;
+}
+
+.logo{
+	width:150px;
+	height:150px;
+	margin:0;
+	padding:0;
+	float:left;	
+	margin-left:20px;
+}
